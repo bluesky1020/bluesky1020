@@ -1,19 +1,3 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Software Engineer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<p align="center">
-  <img src="https://github.com/MrKevin0308/MrKevin0308/blob/main/Logo.gif" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
-  </a>
-</p>
-
 ## Core Skills
 
 - 🔭 <b>Frontend</b> : React.js, Next.js, Vue.js, Nuxt.js, Angular
@@ -25,7 +9,7 @@
 - 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=MrKevin0308&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bluesky1020&column=7&theme=onedark"/>
 </p>
 
 ## Languages & Tools
@@ -71,11 +55,7 @@
 
 ## Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MrKevin0308&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MrKevin0308&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="MrKevin0308's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MrKevin0308&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
+  <img src = "https://github-readme-stats.vercel.app/api?username=bluesky1020&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
 </p>
 </details>
 
